@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Reportes de escaneo (Para que tus pruebas sean privadas)
+reporte_escaneo.txt
+
+# Archivos temporales de sistema y editores
+.vscode/
+.DS_Store
+*.swp
+.~lock.*
