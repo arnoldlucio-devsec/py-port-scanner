@@ -3,7 +3,7 @@
 
 import subprocess
 
-# Dirección a probar (puedes cambiarla por la de tu router o 8.8.8.8)
+# Dirección a probar (ejmp. 8.8.8.8)
 target = "8.8.8.8" 
 
 print(f"[*] Iniciando reconocimiento de red en: {target}...")
